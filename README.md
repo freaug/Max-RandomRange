@@ -21,7 +21,7 @@ If you're curious about the code you can send a viewsource message to <i><b>mxj 
 
 <h2>Troubleshooting: </h2>
 
-I've tested the template and mxj object with Max5 and Max6 on OS X Yosemite with no issues.  
+I've the mxj object with Max5 and Max6 on OS X Yosemite with no issues.  If you test on a different system or come across a bug please let me know so I can update the docs. 
 
 If you have any issues the mxj reference is a good place to look: https://docs.cycling74.com/max5/refpages/max-ref/mxj.html or you can drop me a line ed.mc.farr@gmail.com
 
