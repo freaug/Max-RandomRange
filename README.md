@@ -17,7 +17,7 @@ Then just create a new <i><b>mxj randomRange</b></i> object.
 </ul>
 <i>Default range is 0.0 to 1.0</i>
 
-If you're curious about the code you can send a viewsource message to <i><b>mxj autoSave</b></i>.
+If you're curious about the code you can send a viewsource message to <i><b>mxj randomRange</b></i>.
 
 <h2>Troubleshooting: </h2>
 
