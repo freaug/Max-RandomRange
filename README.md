@@ -15,7 +15,7 @@ Inlet 3 accepts floats or ints and sets the maximum range of the object
 
 Outlet 1 outputs the next random number within the specified range
 
-<i>Default range is 0.0 to 1.0<i>
+<i>Default range is 0.0 to 1.0</i>
 
 If you're curious about the code you can send a viewsource message to <i><b>mxj autoSave</b></i>.
 
