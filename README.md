@@ -8,13 +8,13 @@ Place <i><b>randomRange.class</b></i> and <i><b>randomRange.java</b></i> in the 
 Cycling '74 > java > classes
 
 Then just create a new <i><b>mxj randomRange</b></i> object. 
+<ul>
+<li>Inlet 1 accepts bangs and will output the next random number</li>
+<li>Inlet 2 accepts floats or ints and sets the minimum range of the object</li>
+<li>Inlet 3 accepts floats or ints and sets the maximum range of the object</li>
 
-Inlet 1 accepts bangs and will output the next random number
-Inlet 2 accepts floats or ints and sets the minimum range of the object
-Inlet 3 accepts floats or ints and sets the maximum range of the object
-
-Outlet 1 outputs the next random number within the specified range
-
+<li>Outlet 1 outputs the next random number within the specified range</li>
+</ul>
 <i>Default range is 0.0 to 1.0</i>
 
 If you're curious about the code you can send a viewsource message to <i><b>mxj autoSave</b></i>.
